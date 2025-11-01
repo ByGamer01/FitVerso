@@ -105,7 +105,7 @@ La estructura está diseñada para ser **modular, escalable y mantenible**, idea
 
 ## 📜 Licencia
 
-Este proyecto está bajo la **Licencia MIT** — libre para usar, modificar y contribuir.  
+FitVerso © 2025 by David Gil is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/
 Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
