@@ -122,6 +122,3 @@ El mundo de FitVerso está en expansión y tú puedes ser parte de él 🌍🔥
   Made with ❤️ and 💪 by <b>David Gil</b><br>
   <i>Powered by anime, tecnología y determinación.</i>
 </p>
-
-FitVerso © 2025 by David Gil is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/
-
